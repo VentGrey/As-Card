@@ -36,6 +36,6 @@
         "gulp-clean-css": "4.3.0",
         "gulp-header": "2.0.9",
         "gulp-rename": "1.4.0",
-        "gulp-sass": "4.1.0"
+        "gulp-sass": "4.1.1"
     }
 }
